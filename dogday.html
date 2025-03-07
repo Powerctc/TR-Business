@@ -113,4 +113,29 @@ align-items: start;
 padding: 40px;
 
 border-radius: 5px;
+      border-radius: 15px;
+    width: 150px;
+    text-align: center;
+    animation-name: focus;
+    animation-duration: 4s;
+    animation-fill-mode: both;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.icon {
+    width: 15px;
+    aspect-ratio: 1/1;
+}
+
+@keyframes focus {
+    50% {
+        opacity: 0.8
+    }
+}
 </style>
