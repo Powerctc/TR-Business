@@ -81,7 +81,7 @@ border: 3px solid #00d7c3;
 .container {
   font-weight: bold;
   width: 150px;
-  height: 170px;
+  height: 180px;
   position: relative;
 }
 
@@ -124,7 +124,7 @@ h3 {
   color: #000;
   display: inline-block;
   position: relative;
-  top: 30px;
+  top: 35px;
 }
 
 figcaption {
