@@ -1,13 +1,4 @@
-/*body { border: ridge 15px;}
 
-.container {
-  text-align: center;
-
-}*/
-.watermark {
-    /* Used to position the watermark */
-    position: relative;
-}
 div.scrollmenu { background-color: green; overflow: auto; white-space: nowrap; }
 .container5 {
 
