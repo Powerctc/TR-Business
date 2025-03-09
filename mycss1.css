@@ -112,6 +112,7 @@ background-position: center;
         width: 130px;
         height: 170px;
         position: relative;
+            top: 15px;
 }
 
       .container1 {
@@ -125,7 +126,7 @@ background-position: center;
         width: 120px;
         height: 130px;
         position: relative;
-        top: 20px;
+        top: 15px;
 
 
       }
