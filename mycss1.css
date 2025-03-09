@@ -59,8 +59,8 @@ background-position: center;
   color: blue;
   text-transform: uppercase;
   font-weight: 600;
-  margin-left: 25px;
-  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-bottom: 20px;
   cursor: pointer;
   display: inline-block;
 }
